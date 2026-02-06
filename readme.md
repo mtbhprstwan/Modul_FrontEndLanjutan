@@ -1,8 +1,8 @@
 # Home
 
-## Modul Frontend Development 2024
+## Modul Advanced Frontend Development 2026
 
-Modul ini disusun sebagai bahan pembelajaran Frontend Development yang mencakup
+Modul ini disusun sebagai bahan pembelajaran Advanced Frontend Developmentt yang mencakup
 konsep dasar hingga lanjutan dalam pengembangan aplikasi frontend modern
 menggunakan React dan ekosistemnya.
 
@@ -30,3 +30,4 @@ menggunakan React dan ekosistemnya.
 ---
 
 © Frontend Development Module
+
